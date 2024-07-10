@@ -4,9 +4,9 @@ This is just a simple calculator
 
 Updates made on master on Github before rebase
 
+# Repository Purpose 
+This is just a readme file.
 
-## Repository Purpose 
+## Purpose 
 
-This will be a change that conflicts
-with whatever is on the remote side.
-This was edited locally.
+The purpose of this file is to provide examples on how to use git and github together.
